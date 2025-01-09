@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+   <h1><b>This is a table</b></h1>
+    <h2><i>This is a table</i></h2>
+    <h2><small>This is a table</small></h2>
+    <h2><strong>This is a table</strong></h2>
+    <h2><em>This is a table</em></h2>
+    <h2><mark>This is a table</mark></h2>
+    <h2><strike>This is a table</strike></h2>
+    <h2><marquee>This is a table</marquee></h2>
+    <h2><sub>o2</sub></h2>
+    <sup>e4</sup>
+</body>
+</html>
